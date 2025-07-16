@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IBM Internship Spam Detection Project
 
 This project is based on the repository: [kartik-parmar007/IBM-Internship](https://github.com/kartik-parmar007/IBM-Internship)
@@ -19,3 +20,7 @@ A video demonstration of the project is available on Google Drive:
 ---
 
 Feel free to explore the code and watch the video for a detailed walkthrough of the project.
+=======
+# IBM-Internship
+Span Detection For IBM Internship
+>>>>>>> 92ca1309ae2b885127d3dba553b3d565923d6609
